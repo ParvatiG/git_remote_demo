@@ -1,4 +1,8 @@
 git1 added
+<<<<<<< HEAD
 git1 changed
 change added
 change1 added
+=======
+git1 changed
+>>>>>>> parent of 00d6425 (git1 file added)
